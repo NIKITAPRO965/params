@@ -194,7 +194,7 @@ ul{
   margin-top: 20px;
 }
 
-li{
+li, .box-box{
   padding: 10px 20px;
   outline: 3px solid red;
   border-radius: 8px;
@@ -213,3 +213,11 @@ button{
   padding: 10px 15px;
   font-weight: 900;
 }
+
+.arrow-btn{
+  color: green;
+  width: 50px;
+  background-color: transparent;
+  margin: 0 auto;
+}
+
